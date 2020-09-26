@@ -1,5 +1,5 @@
 
-TOKEN = '1339175546:AAFf50TNSE9a58ZYPoZGHfBPrrpjFmSxERQ'
+TOKEN = 'Ваш токен'
 
 #Уведомление о вручении вес
 NOTIFICATION = 2.5
